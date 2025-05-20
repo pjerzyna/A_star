@@ -14,11 +14,16 @@ This project implements the **A\*** (A-star) pathfinding algorithm on a 2D **occ
 - Clear visualization of occupancy grid and final path
 
 ## 📂 Project Structure
-A_STAR/
+A_STAR/ 
+
 ├── obstacle1.mat
+
 ├── obstacle2.mat
+
 ├── obstacle3.mat
+
 ├── main.m # main execution file
+
 └── README.md
 
 ## 🚀 How to Run
@@ -31,7 +36,7 @@ A_STAR/
    startNode = [5.2, 15.5];
    goalNode  = [22.7, 13.1];
 4. Run the script:
->> main
+   main
 
 ## 📈 Sample Visual Output
 
